@@ -824,7 +824,7 @@ University of Virginia
 DS-2002 - Data Science Systems  
 Fall 2024
 
-**Repository**: [github.com/yourusername/PROJECT1](https://github.com/yourusername/PROJECT1)
+**Repository**: [github.com/yourusername/PROJECT1](https://github.com/simonalam/Project1)
 
 ---
 
@@ -840,4 +840,4 @@ This project was created for academic purposes as part of DS-2002 coursework at 
 
 ---
 
-*Last Updated: October 2024*
+*Last Updated: October 2025*
