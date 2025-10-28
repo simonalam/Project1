@@ -1,0 +1,167 @@
+customer_reference_id,first_name,last_name,email,phone,city,state,zip_code,registration_date,customer_segment,loyalty_tier,age
+3957,Aiden,Davis,aiden.davis26@email.com,+1-959-481-5012,San Diego,AZ,23434,2021-11-23,Premium,Platinum,20
+3958,Olivia,Garcia,olivia.garcia224@email.com,+1-438-717-1434,Seattle,FL,95181,2021-12-19,VIP,Silver,46
+3959,Grace,Moore,grace.moore829@email.com,+1-206-977-3615,Las Vegas,OR,54597,2020-10-11,Regular,Silver,66
+3960,Michael,Miller,michael.miller95@email.com,+1-589-299-6881,Jacksonville,NC,15695,2022-01-17,VIP,Bronze,42
+3961,Mia,Scott,mia.scott301@email.com,+1-843-833-6925,Denver,FL,19116,2020-02-16,Regular,Gold,23
+3962,William,Miller,william.miller390@email.com,+1-484-664-6977,Philadelphia,MA,56566,2020-08-02,Occasional,Bronze,56
+3963,Aiden,Hernandez,aiden.hernandez547@email.com,+1-946-450-3677,Charlotte,TN,45382,2022-08-05,Regular,Gold,71
+3964,Luke,Roberts,luke.roberts58@email.com,+1-434-232-6168,Fort Worth,NC,18675,2020-08-04,Occasional,Silver,59
+3965,Madison,Sanchez,madison.sanchez906@email.com,+1-858-669-3340,Dallas,AZ,42325,2022-02-01,Occasional,Platinum,75
+3966,Grace,Sanchez,grace.sanchez371@email.com,+1-424-341-9348,San Francisco,IL,16175,2022-05-31,Premium,Silver,58
+3967,Liam,Baker,liam.baker433@email.com,+1-810-265-7304,Fort Worth,NV,79352,2020-09-14,Premium,Bronze,61
+3968,Sofia,Carter,sofia.carter274@email.com,+1-987-856-6573,Houston,WA,66985,2020-06-10,VIP,Bronze,64
+3969,Wyatt,Taylor,wyatt.taylor996@email.com,+1-712-980-3927,Indianapolis,TX,91959,2020-11-01,Regular,Silver,41
+3970,Jack,Hernandez,jack.hernandez553@email.com,+1-997-743-1009,Boston,CO,74042,2020-01-20,Premium,Gold,74
+3971,Alexander,Thomas,alexander.thomas60@email.com,+1-446-780-2290,Chicago,MI,19071,2022-09-28,Regular,Silver,60
+3972,Emily,Scott,emily.scott170@email.com,+1-471-740-7932,San Antonio,FL,50857,2021-02-12,Occasional,Platinum,75
+3973,Avery,Lewis,avery.lewis124@email.com,+1-453-430-2049,Austin,NY,87110,2021-07-21,Regular,Silver,18
+3974,Sophia,Rivera,sophia.rivera647@email.com,+1-260-434-2104,Los Angeles,CO,19287,2021-06-10,Regular,Gold,60
+3975,Madison,Wilson,madison.wilson553@email.com,+1-335-940-8744,San Diego,MI,63354,2020-07-13,Premium,Bronze,60
+3976,Levi,Thompson,levi.thompson434@email.com,+1-620-678-1887,Portland,TX,17944,2021-02-16,Occasional,Bronze,33
+3977,Oliver,Gonzalez,oliver.gonzalez550@email.com,+1-659-343-7912,Philadelphia,NC,70637,2020-09-12,Premium,Platinum,69
+3978,Ella,Miller,ella.miller52@email.com,+1-867-753-1241,Chicago,OH,31798,2021-02-20,VIP,Platinum,31
+3979,Logan,Brown,logan.brown169@email.com,+1-588-202-7396,Dallas,NV,47388,2021-03-09,VIP,Silver,30
+3980,Henry,Wilson,henry.wilson992@email.com,+1-259-793-9883,Los Angeles,CO,17492,2020-02-21,VIP,Silver,21
+3981,Elizabeth,Garcia,elizabeth.garcia872@email.com,+1-390-270-2113,Portland,OH,62923,2020-05-02,Regular,Bronze,57
+3982,Mia,Clark,mia.clark674@email.com,+1-797-778-9565,Austin,NC,36772,2021-11-16,Occasional,Silver,34
+3983,Logan,Rodriguez,logan.rodriguez688@email.com,+1-860-507-8491,Austin,IL,11220,2021-04-14,Premium,Bronze,52
+3984,Elijah,Allen,elijah.allen272@email.com,+1-335-557-2127,San Diego,MA,47353,2020-06-10,VIP,Gold,57
+3985,Samuel,King,samuel.king9@email.com,+1-883-767-5905,Portland,TX,27601,2020-09-27,Premium,Bronze,65
+3986,Ella,Martinez,ella.martinez279@email.com,+1-488-819-4450,Las Vegas,CO,36685,2021-12-04,Occasional,Platinum,34
+3987,Isabella,Garcia,isabella.garcia650@email.com,+1-633-483-1722,New York,CO,27146,2021-10-14,Occasional,Silver,65
+3988,Sebastian,Scott,sebastian.scott723@email.com,+1-637-774-1158,Houston,IL,29536,2021-07-12,Premium,Gold,55
+3989,Ella,Martinez,ella.martinez441@email.com,+1-330-242-6050,Jacksonville,CA,56898,2020-08-03,Regular,Bronze,40
+3990,Luke,Scott,luke.scott906@email.com,+1-616-835-3532,San Diego,PA,33206,2022-06-21,VIP,Bronze,29
+3991,John,Perez,john.perez802@email.com,+1-621-885-5065,Dallas,PA,24168,2021-01-26,Premium,Platinum,32
+3992,Oliver,Robinson,oliver.robinson359@email.com,+1-512-433-4652,New York,FL,62227,2020-12-02,Occasional,Bronze,67
+3993,Lucas,Thompson,lucas.thompson657@email.com,+1-721-609-9785,Austin,NY,25118,2022-06-17,Occasional,Silver,55
+3994,Benjamin,Williams,benjamin.williams112@email.com,+1-810-644-6663,Detroit,CO,67199,2021-09-12,Premium,Platinum,75
+3995,Scarlett,Gonzalez,scarlett.gonzalez261@email.com,+1-245-925-8144,New York,TN,80575,2021-12-04,Regular,Gold,45
+3996,Sophia,Nelson,sophia.nelson943@email.com,+1-538-838-6143,Portland,TX,49363,2021-06-03,Occasional,Platinum,38
+3997,Logan,Hall,logan.hall303@email.com,+1-767-330-4143,Columbus,TN,98777,2022-02-05,Regular,Gold,43
+3998,Ella,Smith,ella.smith312@email.com,+1-493-415-8043,Denver,CO,70946,2021-03-28,VIP,Silver,50
+3999,Emily,Mitchell,emily.mitchell174@email.com,+1-874-286-5649,Indianapolis,CO,22240,2022-04-18,Regular,Gold,32
+4000,Oliver,Martinez,oliver.martinez26@email.com,+1-247-450-8784,Boston,IL,69692,2021-02-28,Regular,Platinum,49
+4001,Logan,Thomas,logan.thomas152@email.com,+1-871-904-1090,Memphis,TX,65724,2020-08-12,Regular,Platinum,21
+4002,Ella,Thomas,ella.thomas940@email.com,+1-324-667-3184,Charlotte,TN,83259,2021-09-01,Occasional,Platinum,57
+4003,Wyatt,Allen,wyatt.allen437@email.com,+1-761-656-3607,Detroit,MI,68991,2020-09-22,Regular,Gold,67
+4004,Luke,King,luke.king497@email.com,+1-841-444-5499,Charlotte,IL,47450,2020-08-28,Occasional,Gold,38
+4005,Sofia,Garcia,sofia.garcia142@email.com,+1-354-436-7275,Las Vegas,AZ,38043,2020-03-06,VIP,Platinum,39
+4006,Sofia,Robinson,sofia.robinson426@email.com,+1-263-411-7883,Fort Worth,NY,85456,2021-01-24,VIP,Bronze,40
+4007,Alexander,Carter,alexander.carter400@email.com,+1-629-751-9947,Boston,OH,73993,2020-08-12,Occasional,Platinum,49
+4008,Olivia,Harris,olivia.harris345@email.com,+1-884-895-7624,Detroit,PA,71261,2022-07-30,Regular,Bronze,43
+4009,Grace,Torres,grace.torres679@email.com,+1-227-285-8022,Phoenix,NV,33819,2020-02-21,Occasional,Platinum,38
+4010,Elijah,Robinson,elijah.robinson335@email.com,+1-545-979-7211,Dallas,OR,43065,2022-05-04,Premium,Platinum,19
+4011,John,Wright,john.wright54@email.com,+1-558-429-2124,Memphis,CA,14067,2022-08-30,Regular,Silver,71
+4012,Olivia,Flores,olivia.flores157@email.com,+1-444-329-8758,Portland,TX,83920,2022-08-28,Regular,Platinum,62
+4013,Benjamin,Roberts,benjamin.roberts378@email.com,+1-371-820-2876,Memphis,PA,50768,2020-04-20,Premium,Gold,54
+4014,Joseph,Harris,joseph.harris407@email.com,+1-932-403-2245,Denver,OH,23356,2021-12-14,Occasional,Bronze,68
+4015,Scarlett,Williams,scarlett.williams356@email.com,+1-745-638-7071,Chicago,TN,94874,2020-12-15,Premium,Platinum,70
+4016,Madison,Miller,madison.miller444@email.com,+1-570-850-8532,Las Vegas,AZ,67080,2020-06-29,Occasional,Platinum,47
+4017,Levi,Campbell,levi.campbell607@email.com,+1-474-530-5022,Chicago,NC,69087,2020-09-06,VIP,Platinum,39
+4018,Olivia,Young,olivia.young872@email.com,+1-532-386-8988,San Antonio,MA,43862,2020-12-14,Occasional,Gold,53
+4019,Emma,King,emma.king971@email.com,+1-395-287-4954,Detroit,OR,74038,2021-07-22,Regular,Platinum,59
+4020,Owen,Young,owen.young459@email.com,+1-217-295-5820,San Diego,TN,41890,2020-11-09,Occasional,Platinum,53
+4021,Avery,Thompson,avery.thompson436@email.com,+1-963-763-6419,Jacksonville,NV,45509,2020-11-09,Occasional,Silver,25
+4022,Wyatt,Gonzalez,wyatt.gonzalez324@email.com,+1-322-960-9779,Memphis,PA,35105,2020-08-09,VIP,Gold,64
+4023,Grace,Carter,grace.carter538@email.com,+1-811-489-2647,San Antonio,WA,39816,2021-01-04,Regular,Gold,18
+4024,Owen,Wright,owen.wright130@email.com,+1-480-246-1893,Seattle,WA,26551,2021-10-15,VIP,Bronze,73
+4025,Emma,Torres,emma.torres292@email.com,+1-680-690-8216,Austin,PA,16734,2020-09-15,VIP,Bronze,70
+4026,Sophia,Sanchez,sophia.sanchez504@email.com,+1-275-790-1878,Phoenix,AZ,83772,2022-08-29,Occasional,Bronze,33
+4027,Amelia,Scott,amelia.scott783@email.com,+1-626-820-4697,Memphis,TN,59856,2021-04-06,VIP,Gold,73
+4028,Grace,Ramirez,grace.ramirez313@email.com,+1-782-835-1986,Boston,TX,37235,2021-10-02,Regular,Gold,60
+4029,Mia,Hernandez,mia.hernandez246@email.com,+1-377-765-2229,Philadelphia,NY,63545,2021-04-06,VIP,Gold,20
+4030,William,Jackson,william.jackson724@email.com,+1-489-919-8438,Chicago,OH,44675,2022-03-17,Regular,Platinum,25
+4031,Sofia,Anderson,sofia.anderson664@email.com,+1-352-472-3330,Chicago,CA,31747,2022-03-22,Occasional,Gold,46
+4032,Amelia,Robinson,amelia.robinson706@email.com,+1-511-916-7594,Dallas,TN,80776,2021-05-20,VIP,Bronze,56
+4033,Ava,Ramirez,ava.ramirez753@email.com,+1-530-818-5102,New York,IL,40005,2022-09-11,Premium,Gold,54
+4034,Ava,Carter,ava.carter775@email.com,+1-379-681-9502,Nashville,NV,46458,2020-07-04,VIP,Platinum,23
+4035,Emily,Thompson,emily.thompson419@email.com,+1-541-528-2713,Philadelphia,CO,63955,2021-12-11,VIP,Gold,60
+4036,Logan,Carter,logan.carter564@email.com,+1-237-665-2442,Austin,NC,52372,2020-04-28,VIP,Bronze,60
+4037,Sofia,Robinson,sofia.robinson424@email.com,+1-255-392-9494,Jacksonville,MI,91973,2021-03-28,Premium,Silver,35
+4038,Ella,Rodriguez,ella.rodriguez950@email.com,+1-494-648-8941,Houston,NY,92578,2021-09-15,Regular,Silver,37
+4039,Ella,Smith,ella.smith566@email.com,+1-617-295-4681,Houston,NV,25396,2021-10-25,Regular,Platinum,63
+4040,Henry,Allen,henry.allen723@email.com,+1-479-625-8905,San Francisco,OH,69871,2021-07-18,Regular,Platinum,30
+4041,Chloe,Allen,chloe.allen765@email.com,+1-339-271-5526,Memphis,OR,54548,2022-08-14,Occasional,Bronze,36
+4042,Wyatt,Martin,wyatt.martin858@email.com,+1-801-793-9022,Phoenix,NV,80592,2021-05-10,Occasional,Gold,53
+4043,Jack,Wright,jack.wright387@email.com,+1-666-529-4090,Las Vegas,OH,84946,2021-01-27,Regular,Platinum,20
+4044,Mason,Mitchell,mason.mitchell485@email.com,+1-922-590-7325,Portland,AZ,74923,2022-09-14,Premium,Silver,50
+4045,Grace,Perez,grace.perez891@email.com,+1-302-650-2633,Indianapolis,NV,12011,2022-01-09,Regular,Platinum,73
+4046,Samuel,Martinez,samuel.martinez77@email.com,+1-680-471-6546,Boston,TN,95175,2020-03-23,Occasional,Platinum,38
+4047,Aiden,Rivera,aiden.rivera909@email.com,+1-977-699-9864,Los Angeles,IL,40771,2021-10-08,Occasional,Silver,65
+4048,Mia,Ramirez,mia.ramirez101@email.com,+1-978-848-2646,Charlotte,PA,49251,2022-07-14,Premium,Bronze,38
+4049,Isabella,Jackson,isabella.jackson368@email.com,+1-583-641-3385,San Diego,TN,64008,2021-08-02,Regular,Silver,29
+4050,Mia,Flores,mia.flores892@email.com,+1-591-834-4945,San Francisco,AZ,40433,2021-04-17,Occasional,Platinum,34
+4051,David,Smith,david.smith921@email.com,+1-676-494-9955,Philadelphia,IL,67898,2022-08-25,Occasional,Gold,58
+4052,Levi,Hall,levi.hall257@email.com,+1-667-509-4263,Fort Worth,MI,23979,2020-08-30,VIP,Gold,54
+4053,Henry,Hall,henry.hall303@email.com,+1-222-874-7484,Dallas,NY,84177,2022-06-04,Premium,Platinum,71
+4054,Henry,Roberts,henry.roberts819@email.com,+1-435-821-6772,San Diego,FL,91381,2020-09-13,Regular,Bronze,75
+4055,Aiden,Adams,aiden.adams41@email.com,+1-516-651-1546,Denver,MA,27224,2020-04-02,Occasional,Gold,65
+4056,Jackson,Lopez,jackson.lopez206@email.com,+1-335-752-6994,Indianapolis,TN,45720,2022-04-30,Regular,Gold,70
+4057,Emily,Jackson,emily.jackson765@email.com,+1-546-317-8673,Chicago,AZ,39571,2022-05-30,VIP,Gold,23
+4058,Logan,Smith,logan.smith271@email.com,+1-749-326-8451,Jacksonville,NC,86619,2021-01-25,Occasional,Bronze,61
+4059,William,Walker,william.walker26@email.com,+1-834-774-6374,Boston,OH,94889,2020-03-05,VIP,Gold,59
+4060,Jackson,Davis,jackson.davis144@email.com,+1-246-238-5986,San Francisco,TX,22739,2020-08-28,Regular,Platinum,47
+4061,Daniel,Nelson,daniel.nelson973@email.com,+1-960-913-9850,Columbus,AZ,64379,2021-11-01,Premium,Platinum,57
+4062,Jackson,Moore,jackson.moore34@email.com,+1-906-579-4559,Charlotte,NV,40947,2022-05-25,Occasional,Bronze,61
+4063,Daniel,Wright,daniel.wright924@email.com,+1-860-567-1992,Fort Worth,NC,34878,2022-09-18,Premium,Platinum,23
+4064,David,Wilson,david.wilson658@email.com,+1-854-811-1349,Los Angeles,CO,41925,2020-05-08,Regular,Bronze,71
+4065,Jack,Scott,jack.scott213@email.com,+1-800-421-4817,Austin,AZ,88116,2020-01-03,Occasional,Silver,26
+4066,Sofia,Taylor,sofia.taylor818@email.com,+1-378-312-1422,Phoenix,NY,56955,2022-03-19,Regular,Gold,19
+4067,Noah,Taylor,noah.taylor54@email.com,+1-329-959-7897,Indianapolis,TX,18330,2021-05-02,VIP,Gold,50
+4068,Grace,Miller,grace.miller463@email.com,+1-715-426-1710,Detroit,TN,49535,2021-04-14,Premium,Bronze,48
+4069,Logan,Ramirez,logan.ramirez703@email.com,+1-310-702-8267,Chicago,IL,52219,2021-09-14,Regular,Bronze,26
+4070,Lucas,Flores,lucas.flores649@email.com,+1-799-761-6327,Fort Worth,TN,48652,2021-04-09,VIP,Bronze,68
+4071,Carter,Davis,carter.davis874@email.com,+1-870-866-4522,Columbus,NV,39949,2021-02-27,Occasional,Platinum,43
+4072,Jackson,Campbell,jackson.campbell98@email.com,+1-520-637-6120,Portland,NC,59060,2022-09-03,Regular,Platinum,22
+4073,Mia,Garcia,mia.garcia96@email.com,+1-642-298-7105,Phoenix,CA,86869,2022-09-06,Occasional,Bronze,44
+4074,Ethan,Nelson,ethan.nelson964@email.com,+1-968-633-1842,San Jose,WA,56090,2020-04-16,Regular,Silver,60
+4075,Emily,Anderson,emily.anderson868@email.com,+1-310-558-7022,Houston,NC,85248,2020-08-19,VIP,Bronze,56
+4076,David,Hall,david.hall274@email.com,+1-229-384-5477,Las Vegas,WA,54541,2020-12-25,Premium,Silver,73
+4077,Evelyn,Torres,evelyn.torres674@email.com,+1-610-271-3324,Detroit,NY,22026,2022-02-03,Regular,Platinum,44
+4078,Mateo,Perez,mateo.perez162@email.com,+1-578-519-6314,Memphis,IL,16895,2020-06-08,Regular,Bronze,61
+4079,Mia,Moore,mia.moore454@email.com,+1-877-634-8957,Boston,NV,64287,2020-10-06,Regular,Bronze,40
+4080,Levi,Davis,levi.davis291@email.com,+1-894-894-8972,Indianapolis,WA,15952,2020-08-13,VIP,Bronze,18
+4081,Elijah,Martin,elijah.martin969@email.com,+1-416-985-3248,Memphis,NC,47938,2020-12-01,Premium,Bronze,49
+4082,John,Ramirez,john.ramirez180@email.com,+1-332-589-9725,Las Vegas,OH,75570,2021-07-26,Occasional,Bronze,43
+4083,John,Williams,john.williams447@email.com,+1-219-670-2275,Austin,OR,85156,2021-02-18,VIP,Gold,25
+4084,Logan,Johnson,logan.johnson990@email.com,+1-532-375-8538,Las Vegas,MA,21551,2021-03-23,Premium,Silver,45
+4085,Grace,Sanchez,grace.sanchez537@email.com,+1-280-605-6083,Detroit,CO,39041,2020-12-07,Regular,Bronze,50
+4086,Aiden,Davis,aiden.davis544@email.com,+1-722-398-6724,Jacksonville,AZ,40968,2020-04-15,Regular,Gold,30
+4087,Noah,Hill,noah.hill157@email.com,+1-978-977-2234,Philadelphia,MI,70811,2022-02-11,VIP,Gold,73
+4088,Aiden,Lee,aiden.lee155@email.com,+1-650-269-8682,Charlotte,WA,46002,2021-08-28,Premium,Gold,50
+4089,Sophia,Martin,sophia.martin473@email.com,+1-662-238-1932,Jacksonville,WA,20057,2021-10-22,Premium,Platinum,47
+4090,Grace,Scott,grace.scott978@email.com,+1-956-242-8368,Denver,FL,52143,2021-09-11,VIP,Silver,21
+4091,Sebastian,Miller,sebastian.miller831@email.com,+1-551-931-2381,Indianapolis,PA,15130,2020-09-10,VIP,Platinum,51
+4092,Avery,Flores,avery.flores163@email.com,+1-572-581-5634,Fort Worth,OR,54350,2021-11-26,Premium,Gold,22
+4093,Michael,Miller,michael.miller572@email.com,+1-894-595-5655,Dallas,AZ,53694,2020-03-24,Regular,Gold,37
+4094,Samuel,Hall,samuel.hall679@email.com,+1-601-332-2388,San Jose,TN,94343,2022-03-21,Occasional,Silver,60
+4095,Carter,Mitchell,carter.mitchell702@email.com,+1-739-295-7937,Indianapolis,MA,12389,2021-01-06,Occasional,Silver,31
+4096,Michael,Roberts,michael.roberts498@email.com,+1-396-431-3253,Phoenix,IL,48770,2022-05-14,Premium,Bronze,60
+4097,Michael,Roberts,michael.roberts633@email.com,+1-334-811-7172,Phoenix,PA,33703,2022-05-01,Regular,Platinum,20
+4098,Jackson,White,jackson.white693@email.com,+1-936-443-8277,Boston,WA,68841,2020-08-27,Regular,Gold,69
+4099,Emily,Gonzalez,emily.gonzalez377@email.com,+1-894-784-8218,Charlotte,WA,60052,2021-05-29,VIP,Silver,70
+4100,Oliver,Hill,oliver.hill142@email.com,+1-456-253-8873,Jacksonville,TX,77621,2022-05-21,Premium,Gold,23
+4101,Jack,Hernandez,jack.hernandez280@email.com,+1-660-725-3414,Columbus,IL,39102,2022-04-16,VIP,Gold,19
+4102,Jackson,Brown,jackson.brown406@email.com,+1-714-582-4862,Fort Worth,IL,59140,2020-08-17,Premium,Gold,24
+4103,Owen,Adams,owen.adams344@email.com,+1-349-340-1627,San Jose,MI,28191,2022-02-16,VIP,Platinum,57
+4104,Emma,Garcia,emma.garcia20@email.com,+1-462-420-3449,Seattle,TN,65476,2020-04-23,Occasional,Silver,37
+4105,Amelia,Brown,amelia.brown245@email.com,+1-629-854-8489,Chicago,TX,75513,2021-09-03,Premium,Silver,63
+4106,Evelyn,Jackson,evelyn.jackson440@email.com,+1-201-829-6780,San Diego,OR,34551,2021-11-11,Premium,Gold,22
+4107,Avery,Wright,avery.wright520@email.com,+1-719-767-1333,Fort Worth,MI,15706,2021-10-12,VIP,Gold,34
+4108,John,Johnson,john.johnson366@email.com,+1-269-553-4950,Detroit,TX,86271,2022-01-22,Occasional,Silver,20
+4109,Ethan,Wright,ethan.wright347@email.com,+1-858-379-8612,Las Vegas,MI,92802,2020-07-05,Regular,Bronze,63
+4110,Luke,Robinson,luke.robinson38@email.com,+1-500-406-1717,San Antonio,CA,51365,2022-08-13,Occasional,Platinum,70
+4111,Sofia,Walker,sofia.walker260@email.com,+1-237-971-4131,San Jose,MA,16265,2022-06-05,Occasional,Gold,25
+4112,Daniel,Ramirez,daniel.ramirez911@email.com,+1-609-961-8204,Fort Worth,CO,34486,2021-05-23,VIP,Gold,69
+4113,Avery,Moore,avery.moore821@email.com,+1-284-944-7955,Chicago,OR,88964,2022-04-22,Regular,Gold,38
+4114,Charlotte,Garcia,charlotte.garcia336@email.com,+1-876-502-6021,Charlotte,OR,31842,2021-12-07,VIP,Gold,46
+4115,Ava,Campbell,ava.campbell891@email.com,+1-561-829-8126,Dallas,CA,19835,2021-11-18,VIP,Gold,50
+4116,John,Baker,john.baker164@email.com,+1-231-346-8179,Los Angeles,AZ,18812,2020-08-29,Occasional,Gold,42
+4117,Scarlett,Williams,scarlett.williams620@email.com,+1-357-895-8371,Jacksonville,MA,68188,2022-02-20,Premium,Silver,51
+4118,Daniel,Sanchez,daniel.sanchez322@email.com,+1-865-485-5089,Houston,NY,34385,2021-05-26,VIP,Bronze,34
+4119,Luke,Taylor,luke.taylor721@email.com,+1-656-419-5678,Las Vegas,MI,36237,2020-05-05,Regular,Bronze,46
+4120,Noah,Rivera,noah.rivera456@email.com,+1-289-898-6236,Portland,MA,18511,2021-07-17,Occasional,Gold,72
+4121,Liam,Rivera,liam.rivera727@email.com,+1-917-853-3852,Jacksonville,TN,39391,2020-05-04,Regular,Silver,33
+4122,Madison,Johnson,madison.johnson370@email.com,+1-767-786-7044,Charlotte,AZ,90209,2022-06-24,Premium,Bronze,37

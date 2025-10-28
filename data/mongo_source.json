@@ -1,0 +1,6 @@
+[
+  {"supplier_name": "ABC Apparel", "inventory": 5000, "country": "USA"},
+  {"supplier_name": "StepWorld", "inventory": 2500, "country": "Italy"},
+  {"supplier_name": "ClassicWear", "inventory": 3000, "country": "USA"},
+  {"supplier_name": "RuggedSoles", "inventory": 1800, "country": "Spain"}
+]

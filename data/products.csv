@@ -1,0 +1,62 @@
+product_id,item_name,category,brand,material,season,gender_target,base_price,stock_quantity,supplier_name,product_introduction_date
+1001,Handbag,Accessories,Classic Collection,Synthetic,All Season,Women,4650,259,Elite Textiles,2020-05-08
+1002,Tunic,Tops,Modern Wardrobe,Polyester,Fall/Winter,Women,4285,314,Premium Manufacturing,2022-06-18
+1003,Tank Top,Tops,Haute Couture,Canvas,All Season,Men,2245,443,International Imports,2021-05-29
+1004,Leggings,Bottoms,Fashion House,Cotton,Spring/Summer,Men,2126,205,International Manufacturing,2020-11-26
+1005,Wallet,Accessories,Fashion House,Silk,Fall/Winter,Men,2663,483,Global Fashion,2020-07-20
+1006,Onesie,Sleepwear,Designer Choice,Canvas,Fall/Winter,Unisex,4060,205,Elite Supply,2020-04-05
+1007,Jacket,Outerwear,Street Style,Leather,All Season,Men,2131,137,Elite Supply,2020-12-11
+1008,Trousers,Bottoms,Haute Couture,Suede,Spring/Summer,Unisex,1832,73,Elite Fashion,2021-10-28
+1009,Jeans,Bottoms,Trendy Threads,Suede,Fall/Winter,Men,4117,65,Quality Supply,2020-10-23
+1010,Loafers,Footwear,Designer Choice,Wool,Fall/Winter,Unisex,4796,463,Quality Fashion,2021-04-09
+1011,Slippers,Footwear,Fashion Forward,Cotton,Spring/Summer,Women,3202,297,Quality Manufacturing,2020-12-14
+1012,Bowtie,Accessories,Boutique Brand,Leather,Fall/Winter,Men,2807,425,Premium Imports,2020-05-13
+1013,Pajamas,Sleepwear,Signature Style,Denim,All Season,Men,1934,213,International Imports,2020-05-05
+1014,Trench Coat,Outerwear,Elite Wear,Synthetic,Spring/Summer,Unisex,1896,75,Premium Imports,2022-06-03
+1015,Poncho,Outerwear,Boutique Brand,Linen,Spring/Summer,Unisex,4832,217,Elite Fashion,2020-07-13
+1016,Gloves,Accessories,Signature Style,Leather,Fall/Winter,Men,3412,305,Premium Imports,2020-01-24
+1017,Dress,Dresses,Fashion Forward,Linen,All Season,Women,2486,160,Elite Fashion,2020-02-19
+1018,Sneakers,Footwear,Urban Chic,Wool,Fall/Winter,Men,4952,384,Quality Fashion,2021-07-03
+1019,Sandals,Footwear,Urban Chic,Polyester,Fall/Winter,Unisex,2583,422,Premium Imports,2021-01-09
+1020,Shorts,Bottoms,Urban Chic,Linen,Spring/Summer,Men,3801,149,Premium Supply,2020-10-22
+1021,Sweater,Tops,Fashion Forward,Linen,All Season,Women,4630,331,Premium Supply,2021-11-27
+1022,Blouse,Tops,Boutique Brand,Polyester,Spring/Summer,Unisex,3113,241,Premium Supply,2022-08-19
+1023,Skirt,Bottoms,Modern Wardrobe,Leather,Spring/Summer,Men,3585,255,Elite Textiles,2020-02-16
+1024,Boots,Footwear,Urban Chic,Leather,All Season,Women,4793,292,Elite Imports,2020-06-01
+1025,Scarf,Accessories,Boutique Brand,Canvas,Spring/Summer,Women,4011,213,International Imports,2021-09-23
+1026,Sunglasses,Accessories,Premium Fashion,Wool,All Season,Women,3577,474,Elite Supply,2021-05-16
+1027,Belt,Accessories,Premium Fashion,Suede,Fall/Winter,Women,4841,58,Premium Fashion,2021-11-20
+1028,Hat,Accessories,Fashion Forward,Linen,All Season,Women,4763,421,Global Supply,2021-04-30
+1029,Hoodie,Tops,Elite Wear,Suede,All Season,Unisex,4454,76,Elite Imports,2020-06-23
+1030,Cardigan,Tops,Street Style,Suede,Fall/Winter,Unisex,4865,398,International Textiles,2021-08-09
+1031,Suit,Formal,Premium Fashion,Polyester,Spring/Summer,Unisex,3306,210,Quality Manufacturing,2021-02-26
+1032,Coat,Outerwear,Premium Fashion,Silk,Fall/Winter,Men,4674,363,Quality Textiles,2021-12-23
+1033,T-shirt,Tops,Style Icon,Canvas,Spring/Summer,Men,2831,389,Quality Supply,2021-01-20
+1034,Polo Shirt,Tops,Modern Wardrobe,Leather,Fall/Winter,Men,2902,329,Premium Fashion,2021-09-16
+1035,Vest,Tops,Luxe Label,Silk,Spring/Summer,Women,3785,202,International Fashion,2022-02-28
+1036,Sweatshirt,Tops,Elite Wear,Silk,All Season,Men,3502,212,Quality Fashion,2021-07-27
+1037,Blazer,Formal,Fashion House,Wool,Fall/Winter,Unisex,3848,396,Elite Imports,2022-07-06
+1038,Tie,Accessories,Classic Collection,Denim,Spring/Summer,Women,1672,197,Global Fashion,2022-08-04
+1039,Socks,Accessories,Luxe Label,Wool,All Season,Women,2376,153,Elite Fashion,2022-08-13
+1040,Underwear,Intimates,Street Style,Wool,Spring/Summer,Unisex,4021,429,Elite Manufacturing,2020-09-05
+1041,Swimsuit,Swimwear,Urban Chic,Canvas,Spring/Summer,Men,2453,76,Global Imports,2020-12-04
+1042,Backpack,Accessories,Premium Fashion,Synthetic,Spring/Summer,Men,4657,120,Global Supply,2022-08-09
+1043,Watch,Jewelry,Style Icon,Linen,All Season,Women,3455,383,International Fashion,2020-11-24
+1044,Necklace,Jewelry,Elite Wear,Cotton,Spring/Summer,Men,3851,168,Elite Textiles,2022-07-24
+1045,Bracelet,Jewelry,Fashion House,Leather,Fall/Winter,Unisex,1648,478,Quality Imports,2020-07-09
+1046,Ring,Jewelry,Fashion House,Wool,Spring/Summer,Unisex,2722,340,Elite Textiles,2022-08-08
+1047,Earrings,Jewelry,Modern Wardrobe,Wool,Fall/Winter,Men,3725,318,Quality Manufacturing,2022-05-21
+1048,Clutch,Accessories,Street Style,Synthetic,Fall/Winter,Unisex,4812,107,Premium Manufacturing,2022-01-18
+1049,Tote Bag,Accessories,Luxe Label,Wool,All Season,Unisex,1557,427,Premium Fashion,2021-08-04
+1050,Messenger Bag,Accessories,Designer Choice,Silk,Spring/Summer,Men,4116,257,Quality Supply,2020-12-01
+1051,Camisole,Tops,Fashion Forward,Cotton,All Season,Women,2503,164,Premium Manufacturing,2022-02-22
+1052,Flannel Shirt,Tops,Street Style,Polyester,All Season,Women,1630,65,Global Textiles,2020-04-17
+1053,Flip-Flops,Footwear,Boutique Brand,Cotton,All Season,Unisex,4432,382,Elite Fashion,2021-04-15
+1054,Jumpsuit,Dresses,Boutique Brand,Wool,Spring/Summer,Unisex,4359,266,International Imports,2021-03-07
+1055,Kimono,Outerwear,Modern Wardrobe,Polyester,Spring/Summer,Women,1896,233,International Imports,2022-05-26
+1056,Overalls,Bottoms,Urban Chic,Synthetic,All Season,Unisex,3050,90,Elite Fashion,2021-11-20
+1057,Pants,Bottoms,Modern Wardrobe,Silk,All Season,Unisex,1687,388,Premium Manufacturing,2021-02-28
+1058,Raincoat,Outerwear,Trendy Threads,Polyester,Fall/Winter,Women,3357,375,International Imports,2020-06-12
+1059,Romper,Dresses,Trendy Threads,Wool,All Season,Men,4154,86,Elite Fashion,2022-03-18
+1060,Sun Hat,Accessories,Trendy Threads,Leather,Fall/Winter,Women,2605,377,Elite Fashion,2020-11-11
+1061,Umbrella,Accessories,Urban Chic,Silk,Spring/Summer,Women,3143,187,Global Textiles,2020-10-23
